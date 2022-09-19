@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "loon.tourr",
+    "oncran": true
+  }
+]
