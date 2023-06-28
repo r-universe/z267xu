@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ggmulti"]
 	path = ggmulti
 	url = https://github.com/z267xu/ggmulti
-	shallow = true
-	registered = true
 [submodule "loon.shiny"]
 	path = loon.shiny
 	url = https://github.com/z267xu/loon.shiny
-	shallow = true
-	registered = true
 [submodule "loon.tourr"]
 	path = loon.tourr
 	url = https://github.com/z267xu/loon.tourr
-	shallow = true
-	registered = true
 [submodule "vennplot"]
 	path = vennplot
 	url = https://github.com/z267xu/vennplot
-	shallow = true
-	registered = true
